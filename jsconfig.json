@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "target": "es5",
+    "jsx": "react",
+    "experimentalDecorators": true,
+    "checkJs": true,
+    "outDir": "dist",
+    "baseUrl": "./src"
+  },
+  "include": [
+    "**/*"
+  ],
+  "exclude": [
+    "node_modules/**/*",
+    "**/node_modules/*"
+  ]
+}
